@@ -1,5 +1,5 @@
 - 👋 Olá,eu sou @vinineumannc
-- 📧 vinicius.neumann.cordiero@escola.pr.gov.br
+- 📧 vinicius.neumann.cordeiro@escola.pr.gov.br
 - 👨‍🌾 Sou Agricultor!
 - 🏍️ Piloto Estreante em velocross!
 - 

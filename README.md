@@ -1,7 +1,7 @@
 - 👋 Olá,eu sou @vinineumannc
 - 📧 vinicius.neumann.cordiero@escola.pr.gov.br
 - 👨‍🌾 Sou Agricultor!
-- 🏍️ Gosto muito de Motos!
+- 🏍️ Piloto Estreante em velocross!
 - 
 -[Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 -
